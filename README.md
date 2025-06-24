@@ -10,7 +10,6 @@ next-env.d.ts
 next.config.ts
 package.json
 postcss.config.mjs
-README_STRUCTURE.md
 tsconfig.json
 app/
   layout.tsx
